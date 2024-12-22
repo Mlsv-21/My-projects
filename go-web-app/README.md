@@ -17,3 +17,22 @@ The server will start on port 8080. You can access it by navigating to `http://l
 ![Website](static/images/golang-website.png)
 
 
+
+......................................................................................................................................................................
+# Steps to follow 
+
+
+Step-1 -> install go programing from here link:https://go.dev/doc/install
+
+Step-2 -> Open command promt follow commands
+
+# go version 
+# cd go-web-app
+# go build -o main .
+# ren main main.exe
+# main.exe
+# .\main
+
+
+
+
